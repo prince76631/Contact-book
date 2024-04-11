@@ -27,7 +27,7 @@ def contact_book():
 
 
     while True:
-     choice = input("\nenter your choice : ") 
+     choice = input("\nEnter your choice : ") 
      add_contact() 
      
      
